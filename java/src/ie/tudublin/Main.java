@@ -28,12 +28,19 @@ public class Main
         processing.core.PApplet.runSketch( a, new Arrays());
     }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 70470c93f36683d0ba9aa2d5305c41af5aa45ff8
     public static void audio1()
 	{
 		String[] a = {"MAIN"};
         processing.core.PApplet.runSketch( a, new Audio1());
     }
+<<<<<<< HEAD
     
+=======
+>>>>>>> 70470c93f36683d0ba9aa2d5305c41af5aa45ff8
 
     public void cat()
     {
